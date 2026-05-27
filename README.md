@@ -1,4 +1,4 @@
-# MeuConsumo — Sistema de Controle Financeiro
+# MeuControleFinanceiro — Sistema de Controle Financeiro
 
 ## Sobre o Projeto
 
